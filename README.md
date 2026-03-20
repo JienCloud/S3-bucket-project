@@ -1,7 +1,5 @@
 # Host a Website on Amazon S3
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-host-a-website-on-s3)
-
 **Author:** Jieno Renz Cadiz  
 **Email:** jienorenzcadiz@gmail.com
 
